@@ -1,0 +1,2 @@
+Regex expression
+new RegExp()
